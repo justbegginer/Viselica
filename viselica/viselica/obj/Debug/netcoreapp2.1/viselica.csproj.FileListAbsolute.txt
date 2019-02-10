@@ -1,0 +1,11 @@
+C:\Users\unium\source\repos\viselica\viselica\bin\Debug\netcoreapp2.1\viselica.deps.json
+C:\Users\unium\source\repos\viselica\viselica\bin\Debug\netcoreapp2.1\viselica.runtimeconfig.json
+C:\Users\unium\source\repos\viselica\viselica\bin\Debug\netcoreapp2.1\viselica.runtimeconfig.dev.json
+C:\Users\unium\source\repos\viselica\viselica\bin\Debug\netcoreapp2.1\viselica.dll
+C:\Users\unium\source\repos\viselica\viselica\bin\Debug\netcoreapp2.1\viselica.pdb
+C:\Users\unium\source\repos\viselica\viselica\obj\Debug\netcoreapp2.1\viselica.csprojAssemblyReference.cache
+C:\Users\unium\source\repos\viselica\viselica\obj\Debug\netcoreapp2.1\viselica.csproj.CoreCompileInputs.cache
+C:\Users\unium\source\repos\viselica\viselica\obj\Debug\netcoreapp2.1\viselica.AssemblyInfoInputs.cache
+C:\Users\unium\source\repos\viselica\viselica\obj\Debug\netcoreapp2.1\viselica.AssemblyInfo.cs
+C:\Users\unium\source\repos\viselica\viselica\obj\Debug\netcoreapp2.1\viselica.dll
+C:\Users\unium\source\repos\viselica\viselica\obj\Debug\netcoreapp2.1\viselica.pdb
